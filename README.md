@@ -6,10 +6,11 @@ Series of script to get GEDI and prep it for modeling downstream
 
 View Stage 1 Of workflow resultign In ModEL Embeddings:
 
+https://mayert1.github.io/Prep_GEDI/Embedding_Viz/Full_UMAP_3D_MultiTask_train_Deep_Narrow.html
 
-https://mayert1.github.io/Prep_GEDI/Embedding_Viz/Full_UMAP_3D_MultiTask_test.html
+https://mayert1.github.io/Prep_GEDI/Embedding_Viz/Full_UMAP_3D_MultiTask_test_Deep_Narrow.html
 
-https://mayert1.github.io/Prep_GEDI/Embedding_Viz/Full_UMAP_3D_MultiTask_val.html
+https://mayert1.github.io/Prep_GEDI/Embedding_Viz/Full_UMAP_3D_MultiTask_val_Deep_Narrow.html
 
 <!-- 
 https://mayert1.github.io/Prep_GEDI/Embedding_Viz/UMAP%203D%20-%20Modalities%20%2B%20Split%20%2B%20Target_train_11_25.html
