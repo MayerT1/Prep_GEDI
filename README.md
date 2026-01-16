@@ -4,7 +4,7 @@
 # Prep_GEDI
 Series of script to get GEDI and prep it for modeling downstream
 
-View Stage 1 Of workflow resultign In ModEL Embeddings:
+View Stage 1 of workflow resulting in ModeL Embeddings:
 
 https://mayert1.github.io/Prep_GEDI/Embedding_Viz/Full_UMAP_3D_MultiTask_train_Deep_Narrow.html
 
